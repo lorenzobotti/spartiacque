@@ -16,3 +16,10 @@ un televisore, con dentro l'occhio e il cubo renderizzati in real time (ho in me
 tramite una periferica hardware (una manopola? una leva?) lo spettatore può spostare l'occhio, e di conseguenza rendere solide o tratteggiate alcune linee
 
 ![](giovanni_01_idea.excalidraw.png)
+
+
+**Mael:**  
+Io posso realizzare la parte Hardware, che oltre al joystick potrebbe pilotare dei led dietro al televisore che diano una specie di effetto di profondità, colorando in funzione dell'immagine visualizzata. Potremmo integrare un sistema che simuli questo effetto solipsista, dove i led cambiano a seconda di quale parte dell'immagine è visibile. L'idea sarebbe che, interagendo con il dispositivo, lo spettatore possa percepire una vera e propria "dinamicità" dell'immagine, spingendo oltre la semplice interazione visiva.  
+
+**Proposta aggiuntiva:**  
+Per aggiungere un ulteriore livello di immersione, potremmo anche pensare a come variare l'intensità dei led in base alla percezione dell'occhio spostato, così che l'ambiente sembri davvero modellarsi dietro di lui, influenzando direttamente l'esperienza visiva.

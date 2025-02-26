@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "4f9318f480f6c478",
+    "type": "split",
+    "children": [
+      {
+        "id": "410cffeb3716bd45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4f8de09bfbd5bb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "tatuaggio_jay_illustrazione.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "tatuaggio_jay_illustrazione.excalidraw"
+            }
+          },
+          {
+            "id": "b312362e669fa723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "edfff21d2d04d5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4b6cae0384ddde98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solipsismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solipsismo"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6f76401ec02c9a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52c634462ac41fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4227516baa3d3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e60fe7c99d8b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db78569940c7ac3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dd723186b851cca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b930d4e5cc5881c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02064650ff65acb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3672c6467cd89efc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb3e38042914239",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "solipsismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for solipsismo"
+            }
+          },
+          {
+            "id": "831a94fcf1d7e08d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "solipsismo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from solipsismo"
+            }
+          },
+          {
+            "id": "bd2531bbb3254910",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d5492295c2b2c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "solipsismo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of solipsismo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b6cae0384ddde98",
+  "lastOpenFiles": [
+    "idea giovanni 01.md",
+    "idea_giovanni_01.md",
+    "giovanni_01_idea.excalidraw.png",
+    "solipsismo.md",
+    "README.md",
+    "tatuaggio_jay.jpeg",
+    "WhatsApp Image 2025-02-18 at 09.03.17.jpeg",
+    "Untitled",
+    "tatuaggio_jay_illustrazione.excalidraw.png",
+    "tatuaggio_jay_illustrazione_linee.excalidraw.png",
+    "Welcome.md"
+  ]
+}

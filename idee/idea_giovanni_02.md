@@ -1,7 +1,7 @@
 ui simil-plugdata (tutta da zero, ma fortemente ispirata alla grid di bitwig), che contiene moduli collegati tra di loro che manipolano informazioni su note e accordi e scale
 
-![](immagini/giovanni_02_ui.excalidraw.png)
-![](immagini/bitwig_grid.png)
+![](../immagini/giovanni_02_ui.excalidraw.png)
+![](../immagini/bitwig_grid.png)
 
 la ui può essere manipolata con un touchscreen dall'utente oppure generata randomicamente ogni volta che l'utente preme un pulsante.
 
@@ -10,7 +10,7 @@ la ui può essere manipolata con un touchscreen dall'utente oppure generata rand
 * tastiera per inserire una o più note in input (risultato viene riprodotto in tempo reale)
 * encoder per selezionare un modulo + pulsante toggle attivo/bypassato
 
-![](immagini/giovanni_02_ui_02.excalidraw.png)
+![](../immagini/giovanni_02_ui_02.excalidraw.png)
 
 ## idee per moduli
 ### input
@@ -45,7 +45,7 @@ penso due o tre moduli sempre fissi, con tre possibili voci (synth, sampler, que
 avere come controller un "chord generator" che segue le regole dell'armonia tonale come [questo][nopia]
 
 parti importanti della ui di questo device:
-![](immagini/giovanni_02_nopia.excalidraw.png)
+![](../immagini/giovanni_02_nopia.excalidraw.png)
 
 parti che si possono aggiungere
 * "temperatura" (probabilità di scegliere occasionalmente note dissonanti)
